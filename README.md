@@ -1,7 +1,7 @@
 # bitcoin-testnet-box
 [![docker pulls](https://img.shields.io/docker/pulls/stckwok/testnet.svg?style=flat)](https://hub.docker.com/r/stckwok/testnet/)
 
-Create your own private bitcoin testnet
+Create your own private bitcoin testnet in regtest mode
 
 You must have `bitcoind` and `bitcoin-cli` installed on your system and in the
 path unless running this within a [Docker](https://www.docker.com) container
